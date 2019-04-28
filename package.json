@@ -1,0 +1,18 @@
+{
+  "name": "mzp_website",
+  "version": "1.0.0",
+  "description": "mazhipeng and zhangchunmeng website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "technology",
+    "blog",
+    "website",
+    "mzp",
+    "zcm"
+  ],
+  "author": "mazhipeng",
+  "license": "ISC"
+}
